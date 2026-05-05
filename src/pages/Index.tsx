@@ -34,8 +34,6 @@ export default function Index() {
           <span className="headline-location">в Пшаду</span>
           <span className="headline-date">В СЕНТЯБРЕ<br />2026</span>
         </h1>
-        <div className="divider" />
-        <p className="subtext">Подключение газоснабжения к посёлку Пшада</p>
       </main>
 
       <style>{`
